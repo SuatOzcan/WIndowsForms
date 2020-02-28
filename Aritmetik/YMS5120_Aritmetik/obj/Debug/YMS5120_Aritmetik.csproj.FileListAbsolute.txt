@@ -1,0 +1,12 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\bin\Debug\YMS5120_Aritmetik.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\bin\Debug\YMS5120_Aritmetik.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\bin\Debug\YMS5120_Aritmetik.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.pdb
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Aritmetik\YMS5120_Aritmetik\bin\Debug\YMS5120_Aritmetik.exe.config
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.exe
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Aritmetik\YMS5120_Aritmetik\obj\Debug\YMS5120_Aritmetik.pdb

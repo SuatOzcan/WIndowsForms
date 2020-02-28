@@ -1,0 +1,9 @@
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\bin\Debug\YMS5120_Konus.exe.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\bin\Debug\YMS5120_Konus.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\bin\Debug\YMS5120_Konus.pdb
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\obj\Debug\YMS5120_Konus.csprojResolveAssemblyReference.cache
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\obj\Debug\YMS5120_Konus.Form1.resources
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\obj\Debug\YMS5120_Konus.Properties.Resources.resources
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\obj\Debug\YMS5120_Konus.csproj.GenerateResource.Cache
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\obj\Debug\YMS5120_Konus.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_Konus\YMS5120_Konus\obj\Debug\YMS5120_Konus.pdb

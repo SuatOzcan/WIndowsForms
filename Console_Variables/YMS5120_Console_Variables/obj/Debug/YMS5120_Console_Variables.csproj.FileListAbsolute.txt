@@ -1,0 +1,2 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Variables\YMS5120_Console_Variables\bin\Debug\YMS5120_Console_Variables.exe.config
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Console_Variables\YMS5120_Console_Variables\bin\Debug\YMS5120_Console_Variables.exe.config

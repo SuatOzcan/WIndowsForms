@@ -1,0 +1,6 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Operators\YMS5120_Console_Operators\bin\Debug\YMS5120_Console_Operators.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Operators\YMS5120_Console_Operators\bin\Debug\YMS5120_Console_Operators.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Operators\YMS5120_Console_Operators\bin\Debug\YMS5120_Console_Operators.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Operators\YMS5120_Console_Operators\obj\Debug\YMS5120_Console_Operators.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Operators\YMS5120_Console_Operators\obj\Debug\YMS5120_Console_Operators.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Console_Operators\YMS5120_Console_Operators\obj\Debug\YMS5120_Console_Operators.pdb

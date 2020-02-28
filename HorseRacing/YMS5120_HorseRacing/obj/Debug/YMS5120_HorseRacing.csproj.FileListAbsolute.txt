@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\bin\Debug\YMS5120_HorseRacing.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\bin\Debug\YMS5120_HorseRacing.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\bin\Debug\YMS5120_HorseRacing.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\obj\Debug\YMS5120_HorseRacing.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\obj\Debug\YMS5120_HorseRacing.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\obj\Debug\YMS5120_HorseRacing.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\obj\Debug\YMS5120_HorseRacing.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\obj\Debug\YMS5120_HorseRacing.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_HorseRacing\YMS5120_HorseRacing\obj\Debug\YMS5120_HorseRacing.pdb

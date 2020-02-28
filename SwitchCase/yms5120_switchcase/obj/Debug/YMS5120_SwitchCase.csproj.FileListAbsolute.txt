@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\bin\Debug\YMS5120_SwitchCase.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\bin\Debug\YMS5120_SwitchCase.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\bin\Debug\YMS5120_SwitchCase.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\obj\Debug\YMS5120_SwitchCase.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\obj\Debug\YMS5120_SwitchCase.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\obj\Debug\YMS5120_SwitchCase.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\obj\Debug\YMS5120_SwitchCase.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\obj\Debug\YMS5120_SwitchCase.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_SwitchCase\YMS5120_SwitchCase\obj\Debug\YMS5120_SwitchCase.pdb

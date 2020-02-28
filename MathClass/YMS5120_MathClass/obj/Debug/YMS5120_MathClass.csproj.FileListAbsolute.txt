@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\bin\Debug\YMS5120_MathClass.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\bin\Debug\YMS5120_MathClass.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\bin\Debug\YMS5120_MathClass.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\obj\Debug\YMS5120_MathClass.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\obj\Debug\YMS5120_MathClass.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\obj\Debug\YMS5120_MathClass.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\obj\Debug\YMS5120_MathClass.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\obj\Debug\YMS5120_MathClass.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathClass\YMS5120_MathClass\obj\Debug\YMS5120_MathClass.pdb

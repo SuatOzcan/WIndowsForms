@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\bin\Debug\YMS5120_KararYapilari.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\bin\Debug\YMS5120_KararYapilari.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\bin\Debug\YMS5120_KararYapilari.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\obj\Debug\YMS5120_KararYapilari.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\obj\Debug\YMS5120_KararYapilari.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\obj\Debug\YMS5120_KararYapilari.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\obj\Debug\YMS5120_KararYapilari.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\obj\Debug\YMS5120_KararYapilari.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_KararYapilari\YMS5120_KararYapilari\obj\Debug\YMS5120_KararYapilari.pdb

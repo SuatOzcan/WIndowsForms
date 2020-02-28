@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\bin\Debug\YMS5120.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\bin\Debug\YMS5120.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\bin\Debug\YMS5120.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\obj\Debug\YMS5120.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\obj\Debug\YMS5120.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\obj\Debug\YMS5120.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\obj\Debug\YMS5120.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\obj\Debug\YMS5120.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120\YMS5120\obj\Debug\YMS5120.pdb

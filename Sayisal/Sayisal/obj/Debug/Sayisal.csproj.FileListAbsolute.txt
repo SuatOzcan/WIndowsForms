@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\bin\Debug\Sayisal.exe.config
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\bin\Debug\Sayisal.exe
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\bin\Debug\Sayisal.pdb
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\obj\Debug\Sayisal.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\obj\Debug\Sayisal.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\obj\Debug\Sayisal.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\obj\Debug\Sayisal.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\obj\Debug\Sayisal.exe
+c:\users\can\documents\visual studio 2015\Projects\Sayisal\Sayisal\obj\Debug\Sayisal.pdb

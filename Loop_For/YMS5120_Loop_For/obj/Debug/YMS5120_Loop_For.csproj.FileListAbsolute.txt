@@ -1,0 +1,10 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\bin\Debug\YMS5120_Loop_For.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\bin\Debug\YMS5120_Loop_For.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\bin\Debug\YMS5120_Loop_For.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_For\YMS5120_Loop_For\obj\Debug\YMS5120_Loop_For.Form2.resources

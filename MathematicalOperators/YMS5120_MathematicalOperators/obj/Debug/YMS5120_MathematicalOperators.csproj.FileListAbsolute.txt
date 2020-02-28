@@ -1,0 +1,18 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\bin\Debug\YMS5120_MathematicalOperators.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\bin\Debug\YMS5120_MathematicalOperators.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\bin\Debug\YMS5120_MathematicalOperators.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.pdb
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\bin\Debug\YMS5120_MathematicalOperators.exe.config
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.exe
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.pdb
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\bin\Debug\YMS5120_MathematicalOperators.exe
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\bin\Debug\YMS5120_MathematicalOperators.pdb
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.csprojResolveAssemblyReference.cache
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.Form1.resources
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.Properties.Resources.resources
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_MathematicalOperators\YMS5120_MathematicalOperators\obj\Debug\YMS5120_MathematicalOperators.csproj.GenerateResource.Cache

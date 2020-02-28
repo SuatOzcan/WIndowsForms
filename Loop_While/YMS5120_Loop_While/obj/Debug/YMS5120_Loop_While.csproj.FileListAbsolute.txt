@@ -1,0 +1,12 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\bin\Debug\YMS5120_Loop_While.exe.config
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\bin\Debug\YMS5120_Loop_While.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\bin\Debug\YMS5120_Loop_While.pdb
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.exe
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.pdb
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Loop_While\YMS5120_Loop_While\bin\Debug\YMS5120_Loop_While.exe.config
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.exe
+C:\Users\CaN\Dropbox\YMS5120\YMS5120_Loop_While\YMS5120_Loop_While\obj\Debug\YMS5120_Loop_While.pdb

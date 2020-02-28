@@ -1,0 +1,13 @@
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\bin\Debug\GenelCalisma.exe.config
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\bin\Debug\GenelCalisma.exe
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\bin\Debug\GenelCalisma.pdb
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.exe
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.pdb
+c:\users\can\documents\visual studio 2015\Projects\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.Form2.resources
+C:\Users\CaN\Dropbox\YMS5120\GenelCalisma\GenelCalisma\bin\Debug\GenelCalisma.exe.config
+C:\Users\CaN\Dropbox\YMS5120\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.exe
+C:\Users\CaN\Dropbox\YMS5120\GenelCalisma\GenelCalisma\obj\Debug\GenelCalisma.pdb

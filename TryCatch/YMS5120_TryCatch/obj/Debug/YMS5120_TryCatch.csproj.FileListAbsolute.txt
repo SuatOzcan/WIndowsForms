@@ -1,0 +1,9 @@
+c:\users\can\documents\visual studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\bin\Debug\YMS5120_TryCatch.exe.config
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\bin\Debug\YMS5120_TryCatch.exe
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\bin\Debug\YMS5120_TryCatch.pdb
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\obj\Debug\YMS5120_TryCatch.csprojResolveAssemblyReference.cache
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\obj\Debug\YMS5120_TryCatch.Form1.resources
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\obj\Debug\YMS5120_TryCatch.Properties.Resources.resources
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\obj\Debug\YMS5120_TryCatch.csproj.GenerateResource.Cache
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\obj\Debug\YMS5120_TryCatch.exe
+C:\Users\CaN\Documents\Visual Studio 2015\Projects\YMS5120_TryCatch\YMS5120_TryCatch\obj\Debug\YMS5120_TryCatch.pdb
